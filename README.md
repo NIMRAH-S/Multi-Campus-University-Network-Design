@@ -226,6 +226,7 @@ If you want to recreate the network from scratch for learning purposes:
 **Team Members:**
 - **23f-0807** - [https://github.com/ayesha189]
 - **23f-0734** - [https://github.com/NIMRAH-S]
+- **23f-0839** - [https://github.com/aqsaishaq573-aqi]
 
 ## 🙏 Acknowledgments
 
